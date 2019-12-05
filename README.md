@@ -5,7 +5,7 @@ The code tries to optimise work allocation in any operations business where we h
 1. TAT
 2. Availablity of an Agent
 3. Skillset of an Agent
-4. Work Item specific constraints 
+4. Work Item specific constraint 
 
 In this use case, we try to optimize the following constraints 
 "age"  : How long a work item has been pending
